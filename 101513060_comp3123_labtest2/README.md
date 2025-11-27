@@ -27,6 +27,7 @@ Simple React app that shows current weather for a city using
 git clone https://github.com/btran369/COMP3123-LabTest2
 cd COMP3123-LabTest2/101513060_comp3123_labtest2
 npm install
+```
 
 ## Vercel Deployment
 https://101513060-comp-3123-lab-test2.vercel.app/
