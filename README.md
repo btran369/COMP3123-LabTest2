@@ -35,4 +35,4 @@ https://101513060-comp-3123-lab-test2.vercel.app/
 ## Screenshots
 ![App Screenshot 1](101513060_comp3123_labtest2/public/vercel1.png)
 ![App Screenshot 2](101513060_comp3123_labtest2/public/vercel2.png)
-![App Screenshot 3](101513060_comp3123_labtest2//vercel3.png)
+![App Screenshot 3](101513060_comp3123_labtest2/public/vercel3.png)
